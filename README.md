@@ -1,4 +1,4 @@
-#Airport Authority Data Analysis
+#Airport Authority Data Analysis 
 Project Overview
 This project presents an analysis of U.S. domestic flight operations from 2014 to 2018, focusing on flight volumes, delays, ground processing times, and passenger satisfaction. The objective is to provide actionable insights to airport management using data visualization. An interactive dashboard was developed using Power BI to make the data exploration intuitive and informative.
 
