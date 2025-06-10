@@ -1,11 +1,11 @@
 
-# 🏥 Hospital Data Management & Analysis System
+# Hospital Data Management & Analysis System
 
 This project presents a comprehensive hospital database and visualization solution that simulates real-world healthcare operations using synthetic data. It supports hospital administration in tracking appointments, billing, doctor availability, prescriptions, and room utilization via an interactive **Power BI dashboard** connected to a **relational MS SQL Server database**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - **Goal**: To design a normalized hospital database and provide operational and strategic insights using SQL and Power BI.
 - **Scope**: Includes ER modeling, data generation, DDL/DML scripting, analytical SQL queries, and real-time dashboard development.
@@ -13,7 +13,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -24,7 +24,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 🧱 Key Components
+## Key Components
 
 1. **Entity-Relationship Diagram**  
    - Defined 11 core tables (Patients, Doctors, Appointments, Prescriptions, Rooms, etc.)
@@ -42,7 +42,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 | Dashboard | Target User | Key Insights |
 |----------|--------------|---------------|
@@ -55,7 +55,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 🔍 Sample Business Questions Answered
+## Sample Business Questions Answered
 
 - Which doctors are consistently overbooked?
 - What is the average billing per patient by department?
@@ -65,7 +65,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 🔒 Access Control
+## Access Control
 
 - Admin user with full permissions
 - Role-based read-only access for stakeholders
@@ -73,7 +73,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 🚧 Challenges
+## Challenges
 
 - Maintaining referential integrity across 11+ interrelated tables
 - Generating clean synthetic data while meeting medical realism
@@ -82,7 +82,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## ✅ Learning Outcomes
+## Learning Outcomes
 
 - Mastered **ERD design and SQL constraints** for relational modeling
 - Learned **prompt engineering** with GPT-4 to control data output
@@ -91,7 +91,7 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 \`\`\`
 ├── README.md
@@ -110,18 +110,9 @@ This project presents a comprehensive hospital database and visualization soluti
 
 ---
 
-## 📚 References
+## References
 
 - [Our World in Data – Healthcare Systems](https://ourworldindata.org)
 - [Microsoft SQL Docs](https://docs.microsoft.com/en-us/sql/sql-server/)
 - [Microsoft Power BI Docs](https://learn.microsoft.com/en-us/power-bi/)
-
----
-
-## 📬 Contact
-
-Project by students at **Algonquin College – CST2102 Database Analytics**
-
-Team Members:  
-**Prajna Ganji**, **Shiva**, **Neetika Upadhyay**, **Maruta Zalane**
 
